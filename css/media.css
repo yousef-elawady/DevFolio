@@ -1,0 +1,159 @@
+/* small */
+@media screen and (min-width:640px) {
+    .sm-100{
+     width: 100%;
+    }
+    .sm-50{
+     width: 50%;
+    }
+    .sm-33{
+     width: 33.3%;
+    }
+    .sm-25{
+     width: 25%;
+    }
+    .sm-20{
+     width: 20%;
+    }
+    .sm-16{
+     width: 16%;
+    }
+     
+  }
+  /* medium */
+  @media screen and (max-width:768px) {
+       button.navbar-toggler{
+         background-color: #fff;
+       }
+       a.nav-link{
+         padding: 20px 0;
+       }
+       .navbar .nav-item .nav-link{
+         padding: 10px 0;
+       }
+       header h1{
+         font-size: 48px;
+         padding: 0 12px;
+       }
+       .navbar .nav-item:hover::after{
+         width: 0%;
+       }
+       .navbar .nav-item .nav-link:hover{
+         color: #007aff;
+       }
+      
+       .box{
+         padding: 20px 10px;
+       }
+       .about-me{
+         padding: 20px 10px
+       }
+       .about-me h3{
+         padding-top: 10px;
+       }
+       .titles p{
+         width: 100%;
+       }
+       .titles p::after{
+         left: 210px;
+       }
+       .titles h3{
+         font-size: 3rem;
+       }
+       .slider-content p {
+         padding: 30px 0;
+         width: 100%;
+       }
+       .carousel-item{
+         padding: 2rem 0;
+       }
+       .carousel-indicators [data-bs-target]{
+         margin-bottom: 1rem;
+       }
+       .bg-slider{
+         padding: 65px 0;
+
+       }
+       .card-body{
+         text-align: start;
+       }
+       .contact{
+         padding: 100px 10px 50px 10px;
+       }
+       .bg-contact{
+         padding: 1rem;
+       }
+       
+
+     
+  }
+  /* lg */
+  @media screen and (min-width:1024px) {
+     .lg-100{
+        width: 100%;
+       }
+       .lg-50{
+        width: 50%;
+       }
+       .lg-33{
+        width: 33.3%;
+       }
+       .lg-25{
+        width: 25%;
+       }
+       .lg-20{
+        width: 20%;
+       }
+       .lg-16{
+        width: 16%;
+       }
+  }
+  /*x lg */
+  @media screen and (min-width:1280px) {
+     .xl-100{
+        width: 100%;
+       }
+       .xl-50{
+        width: 50%;
+       }
+       .xl-33{
+        width: 33.3%;
+       }
+       .xl-25{
+        width: 25%;
+       }
+       .xl-20{
+        width: 20%;
+       }
+       .xl-16{
+        width: 16%;
+       }
+  }
+  /*2x lg */
+  @media screen and (min-width:1536px) {
+     .xxl-100{
+        width: 100%;
+       }
+       .xxl-50{
+        width: 50%;
+       }
+       .xxl-33{
+        width: 33.3%;
+       }
+       .xxl-25{
+        width: 25%;
+       }
+       .xxl-20{
+        width: 20%;
+       }
+       .xxl-16{
+        width: 16%;
+       }
+     
+  }
+  
+  
+  
+  
+  
+  
